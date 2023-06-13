@@ -8,6 +8,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 
 - [General Resources](#general-resources-%EF%B8%8F)
 - [Containerization](#containerization-)
+- [Container Runtime Interface](#container-runtime-interface-)
 - [Orchestration](#orchestration-)
 - [Microservices](#microservices-)
 - [Service Mesh](#service-mesh-)
