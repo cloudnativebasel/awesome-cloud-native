@@ -80,6 +80,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Packer](https://www.packer.io/) - Builds automated machine images.
 - [Terraform](https://www.terraform.io/) - Provides a common configuration to launch infrastructure.
 - [Ansible](https://www.ansible.com/) - IT automation tool for just about everything that runs.
+- [Spacelift](https://spacelift.io/) - Spacelift is a Continuous Delivery platform designed specifically to handle Infrastructure as Code (IaC).
 
 ## Cloud Providers ⚓
 
