@@ -86,7 +86,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Amazon Web Services (AWS)](https://aws.amazon.com/) - Offers reliable, scalable, and inexpensive cloud computing services.
 - [Google Cloud Platform (GCP)](https://cloud.google.com/) - Suite of cloud computing services alongside a set of management tools.
 - [Microsoft Azure](https://azure.microsoft.com/) - Build, deploy, and manage applications across global network of datacenters.
-- [DigitalOcean](https://www.digitalocean.com/): DigitalOcean is a cloud infrastructure provider focused on simplifying web infrastructure for software developers.
+- [DigitalOcean (DO)](https://www.digitalocean.com/): DigitalOcean is a cloud infrastructure provider focused on simplifying web infrastructure for software developers.
 
 ## Edge Computing 🏝️
 
