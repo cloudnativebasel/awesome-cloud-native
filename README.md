@@ -16,10 +16,14 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [DevOps Practices](#devops-practices-)
 - [CI/CD](#cicd-)
 - [GitOps](#gitops-)
-- [Observability and Monitoring](#observability-and-monitoring)
-- [AI & Machine Learning](#ai-machine-learning)
-- [WebAssembly](#webassembly)
-- [Security and Governance](#security-and-governance)
+- [Observability and Monitoring](#observability-and-monitoring-)
+- [AI & Machine Learning](#ai--machine-learning-)
+- [WebAssembly](#webassembly-)
+- [Security and Governance](#security-and-governance-)
+- [Cloud Native Web Frameworks and Languages](#cloud-native-web-frameworks-and-languages)
+  - [Web Frameworks](#web-frameworks-)
+  - [Languages](#languages-)
+
 
 ## General Resources ☁️
 
@@ -152,7 +156,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 
 ## Cloud-Native Web Frameworks and Languages
 
-### Web Frameworks
+### Web Frameworks 🪆
 
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/) - Micro web framework written in Python.
 - [Spring Boot](https://spring.io/projects/spring-boot) - Java-based framework used to create stand-alone, production-grade Spring-based Applications.
@@ -165,7 +169,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Tokio](https://tokio.rs/) - A Rust runtime for writing reliable network applications without compromising speed.
 - [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed or maintainability.
 
-### Languages
+### Languages 📟
 
 - [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 - [Deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust
