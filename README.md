@@ -180,7 +180,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Micronaut](https://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
 - [Quarkus](https://quarkus.io/) - A Kubernetes-native Java stack tailored for GraalVM and OpenJDK HotSpot, crafted from the best of breed Java libraries and standards.
 - [FastAPI](https://fastapi.tiangolo.com/) - A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
-- [Bun](https://bun.js.org/) - A fast, all-in-one JavaScript runtime with a bundler, package manager, and a beautiful logger built-in.
+- [Bun](https://bun.sh/) - A fast, all-in-one JavaScript runtime with a bundler, package manager, and a beautiful logger built-in.
 - [Tokio](https://tokio.rs/) - A Rust runtime for writing reliable network applications without compromising speed.
 - [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed or maintainability.
 
