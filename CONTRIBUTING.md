@@ -30,6 +30,6 @@ If you wish to add a new item to the Awesome list:
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/cloudnativebasel/awesome-cloud-native/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/cloudnativebasel/infos/blob/main/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
 Thank you for contributing to Awesome Cloud Native!
