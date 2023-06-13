@@ -4,7 +4,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 
 ## Table of Contents
 
-- [General Resources](#general-resources)
+- [General Resources](#general-resources-%EF%B8%8F)
 - [Containerization](#containerization)
 - [Orchestration](#orchestration)
 - [Microservices](#microservices)
