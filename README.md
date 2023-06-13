@@ -114,11 +114,11 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [WebAssembly (Wasm) Cloud](https://wasmcloud.com/) - wasmCloud is an open source project that leverages WebAssembly to allow developers to build portable business logic that can run securely anywhere.
 - [Krustlet](https://github.com/deislabs/krustlet) - Krustlet is a Kubernetes Kubelet for running WebAssembly workloads. It's a project by Deis Labs.
 
-### Networking 🧭
+## Networking 🧭
 
 - [Cilium](https://cilium.io/) - Open source software for providing, securing, and observing network connectivity between container
 
-### Storage 🪵
+## Storage 🪵
 
 - [Rook](https://rook.io/) - Open-source, cloud-native storage orchestrator for Kubernetes.
 - [Longhorn](https://longhorn.io/) - Project to provide a platform to build distributed block storage system for Kubernetes.
