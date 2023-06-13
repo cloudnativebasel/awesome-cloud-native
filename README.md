@@ -102,7 +102,6 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
 - [Serverless Framework](https://www.serverless.com/): All-in-one development solution for auto-scaling apps on AWS Lambda.
 - [Knative](https://knative.dev/) - Extending Kubernetes to build, deploy, and manage modern serverless workloads.
-- [Kubeless](https://kubeless.io/) - Kubernetes-native serverless framework.
 - [AWS Amplify](https://aws.amazon.com/amplify/): Amplify is a development platform for building secure, scalable mobile and web applications.
 - [Zappa](https://github.com/zappa/Zappa): Zappa is a serverless framework for Python applications. It allows you to build and deploy serverless Python applications on AWS with a minimal configuration and overhead.
 - [Chalice](https://github.com/aws/chalice): Also for Python developers, Chalice is an AWS-backed serverless framework.
