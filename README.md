@@ -39,7 +39,15 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [rkt](https://github.com/rkt/rkt) - Pod-native container engine, predates Docker in Kubernetes use.
 - [containerd](https://containerd.io/) - A high-level container runtime.
 - [cri-o](https://cri-o.io/) - Lightweight container runtime specifically for Kubernetes.
+- [Podman](https://podman.io/): Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+- [Buildah](https://buildah.io/): Buildah is a tool that facilitates building Open Container Initiative (OCI) container images.
 - [Crossplane](https://crossplane.io/) - Crossplane is an open-source Kubernetes add-on that transforms your cluster into a universal control plane to define and compose infrastructure and services directly from Kubernetes.
+
+## Container Runtime Interface 🧳
+
+- [gVisor](https://gvisor.dev/): gVisor is a user-space kernel, written in Go, that implements a substantial portion of the Linux system surface. It provides an isolation boundary between the application and the host kernel and integrates with Docker and Kubernetes, providing sandboxed containers.
+- [Kata Containers](https://katacontainers.io/): Kata Containers project offers lightweight VMs that perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense.
+- [Firecracker](https://firecracker-microvm.github.io/): Firecracker is an open-source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services. It was developed by Amazon Web Services (AWS) to improve the efficiency and resource sharing of their Lambda and Fargate services. Firecracker provides lightweight virtual machines called microVMs.
 
 ## Orchestration 🚢
 
@@ -77,6 +85,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Amazon Web Services (AWS)](https://aws.amazon.com/) - Offers reliable, scalable, and inexpensive cloud computing services.
 - [Google Cloud Platform (GCP)](https://cloud.google.com/) - Suite of cloud computing services alongside a set of management tools.
 - [Microsoft Azure](https://azure.microsoft.com/) - Build, deploy, and manage applications across global network of datacenters.
+- [DigitalOcean](https://www.digitalocean.com/): DigitalOcean is a cloud infrastructure provider focused on simplifying web infrastructure for software developers.
 
 ## Edge Computing 🏝️
 
