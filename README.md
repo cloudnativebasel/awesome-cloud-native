@@ -149,3 +149,26 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Fluentd](https://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Loki](https://grafana.com/oss/loki/) - Horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 - [Tempo](https://grafana.com/oss/tempo/) - Cost-effective, high-volume tracing system.
+
+## Cloud-Native Web Frameworks and Languages
+
+### Web Frameworks
+
+- [Flask](https://flask.palletsprojects.com/en/2.1.x/) - Micro web framework written in Python.
+- [Spring Boot](https://spring.io/projects/spring-boot) - Java-based framework used to create stand-alone, production-grade Spring-based Applications.
+- [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed or maintainability.
+- [NestJS](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+- [Micronaut](https://micronaut.io/) - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.
+- [Quarkus](https://quarkus.io/) - A Kubernetes-native Java stack tailored for GraalVM and OpenJDK HotSpot, crafted from the best of breed Java libraries and standards.
+- [FastAPI](https://fastapi.tiangolo.com/) - A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [Bun](https://bun.js.org/) - A fast, all-in-one JavaScript runtime with a bundler, package manager, and a beautiful logger built-in.
+- [Tokio](https://tokio.rs/) - A Rust runtime for writing reliable network applications without compromising speed.
+- [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed or maintainability.
+
+### Languages
+
+- [Go](https://golang.org/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+- [Deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust
+- [Rust](https://www.rust-lang.org/) - A language empowering everyone to build reliable and efficient software. It is designed to provide memory safety while maintaining high performance.
+- [Python](https://www.python.org/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
+- [Elixir](https://elixir-lang.org/) - A dynamic, functional language designed for building scalable and maintainable applications. Elixir leverages the Erlang VM, known for running low-latency, distributed, and fault-tolerant systems.
