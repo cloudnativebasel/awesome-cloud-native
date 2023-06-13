@@ -1,3 +1,5 @@
+![awesome-cloud-native-header](https://github.com/cloudnativebasel/static/blob/main/images/awesome-cloud-native-header.png)
+
 # Awesome Cloud Native
 
 A curated list of awesome resources around the Cloud Native landscape. ⭐
