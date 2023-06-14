@@ -84,10 +84,14 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 
 ## Cloud Providers ⚓
 
-- [Amazon Web Services (AWS)](https://aws.amazon.com/) - Offers reliable, scalable, and inexpensive cloud computing services.
-- [Google Cloud Platform (GCP)](https://cloud.google.com/) - Suite of cloud computing services alongside a set of management tools.
-- [Microsoft Azure](https://azure.microsoft.com/) - Build, deploy, and manage applications across global network of datacenters.
+- [Amazon Web Services (AWS)](https://aws.amazon.com/) - Biggest cloud provider; offers reliable, scalable cloud computing services.
+- [Google Cloud Platform (GCP)](https://cloud.google.com/) - Google's cloud provider offering; similar in quality and offering as AWS.
+- [Microsoft Azure](https://azure.microsoft.com/) - Microsoft's cloud provider offering; focused on Windows and Microsoft product integration.
 - [DigitalOcean (DO)](https://www.digitalocean.com/): DigitalOcean is a cloud infrastructure provider focused on simplifying web infrastructure for software developers.
+- [Heroku](https://www.heroku.com/): Heroku is a cloud platform as a service supporting several programming languages.
+- [Vercel](https://vercel.com/): Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
+- [Netlify](https://www.netlify.com/): A powerful serverless platform with an intuitive git-based workflow. Automated deployments, shareable previews, and much more.
+- [Fly](https://fly.io/): Purpose-Built Cloud. We run physical servers in cities close to your users. As close to the metal as you can get without paying shipping.
 
 ## Edge Computing 🏝️
 
