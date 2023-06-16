@@ -91,7 +91,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Heroku](https://www.heroku.com/): Heroku is a cloud platform as a service supporting several programming languages.
 - [Vercel](https://vercel.com/): Vercel is the platform for frontend developers, providing the speed and reliability innovators need to create at the moment of inspiration.
 - [Netlify](https://www.netlify.com/): A powerful serverless platform with an intuitive git-based workflow. Automated deployments, shareable previews, and much more.
-- [Flow Swiss](https://flow.swiss): 
+- [Flow Swiss](https://flow.swiss): Flow offers Swiss-based premium cloud services with a focus on simplicity. Trusted by more than 500 companies, including some of the world's biggest brands.
 - [Fly](https://fly.io/): Purpose-Built Cloud. We run physical servers in cities close to your users. As close to the metal as you can get without paying shipping.
 
 ## Edge Computing 🏝️
