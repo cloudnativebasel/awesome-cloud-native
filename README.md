@@ -189,7 +189,6 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Bun](https://bun.sh/) - A fast, all-in-one JavaScript runtime with a bundler, package manager, and a beautiful logger built-in.
 - [Tauri](https://tauri.app/): Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Tokio](https://tokio.rs/) - A Rust runtime for writing reliable network applications without compromising speed.
-- [Phoenix](https://www.phoenixframework.org/) - A productive web framework that does not compromise speed or maintainability.
 
 ### Languages 📟
 
