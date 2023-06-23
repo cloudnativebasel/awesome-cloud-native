@@ -175,6 +175,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Fluentd](https://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Loki](https://grafana.com/oss/loki/) - Horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 - [Tempo](https://grafana.com/oss/tempo/) - Cost-effective, high-volume tracing system.
+- [Tetragon](https://github.com/cilium/tetragon) - Part of Cilium - Cilium’s new Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
 
 ## Cloud-Native Web Frameworks and Languages
 
